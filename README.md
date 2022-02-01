@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 !! Incase u r not accustomed to markdown use this to create yourself a page just like mine => https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 # Hi there 👋, 
-## I am Jogesh Gupta
+## I am Jogesh
+![Profile views](https://gpvc.arturio.dev/jogeshgupta963)  
 <br>
 I am a CS student at Thapar University
 <br>
@@ -50,4 +51,4 @@ Langusages I use: HTML/CSS/JS/Node/MongoDb/C++/Java
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jogeshgupta963)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/jogeshgupta963)  
+
