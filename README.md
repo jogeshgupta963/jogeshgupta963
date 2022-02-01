@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 # Hi there 👋, 
 ## I am Jogesh
 ![Profile views](https://gpvc.arturio.dev/jogeshgupta963)  
-<br>
-I am a CS student at Thapar University
-<br>
-I love to code and play football
-<br>
-Currently learning react
-<br>
-Web Developer(MERN Stack)
-<br>
-Open to working with anyone 
-<br>
-Portfolio -> https://portfolio-jogesh.netlify.app/
-<br>
+<br><br>
+1)I am a CS student at Thapar University
+<br><br>
+2)I love to code and play football
+<br><br>
+3)Currently learning react
+<br><br>
+4)Web Developer(MERN Stack)
+<br><br>
+5)Open to working with anyone 
+<br><br>
+6)Portfolio -> https://portfolio-jogesh.netlify.app/
+<br><br>
 
 
 Langusages I use: HTML/CSS/JS/Node/MongoDb/C++/Java
