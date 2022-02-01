@@ -2,35 +2,26 @@
 <!--
 **jogeshgupta963/jogeshgupta963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 !! Incase u r not accustomed to markdown use this to create yourself a page just like mine => https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 # Hi there 👋, 
 ## I am Jogesh
 ![Profile views](https://gpvc.arturio.dev/jogeshgupta963)  
-<br><br>
+<br>
 1)I am a CS student at Thapar University
-<br><br>
+<br>
 2)I love to code and play football
-<br><br>
+<br>
 3)Currently learning react
-<br><br>
+<br>
 4)Web Developer(MERN Stack)
-<br><br>
+<br>
 5)Open to working with anyone 
-<br><br>
+<br>
 6)Portfolio -> https://portfolio-jogesh.netlify.app/
-<br><br>
+<br>
 
 
 Langusages I use: HTML/CSS/JS/Node/MongoDb/C++/Java
