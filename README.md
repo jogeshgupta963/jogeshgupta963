@@ -45,7 +45,7 @@ Langusages I use: HTML/CSS/JS/Node/MongoDb/C++/Java
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963)](https://github.com/anuraghazra/github-readme-stats)
+<p style="background-color:black">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jogeshgupta963&show_icons=true)  
 
