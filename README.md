@@ -51,7 +51,7 @@ style=" fill:#000000;"><path fill="#0277BD" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z
 </p>
 
 - 👯 I’m looking to collaborate on :Backend projects in node
-- 🤔 I’m looking for help with DSA
+- 🤔 I’m looking for help in academics
 - 💬 Ask me about anything,happy to help!
 - 📫 How to reach me: jogeshgupta963@gmail.com📧
 - 😄 Pronouns: He/Him
@@ -70,5 +70,5 @@ style=" fill:#000000;"><path fill="#0277BD" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z
 
 <!-- <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshgupta963&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" /> -->
 
-<p ><img width="70%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963&layout=compact&theme=omni&hide_border=true&hide_title=true" /></p>
+<p ><img width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963&layout=compact&theme=omni&hide_border=true&hide_title=true" /></p>
 <!-- <img alt="Akshat's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=jogeshgupta963&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true"> -->
