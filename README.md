@@ -29,7 +29,7 @@
 <h3>Here is what I Use 👀</h3>
 <p float="left">
     <img src="./Icons/Python.webp" width="48" />
-    <img src="./Icons/java.webp" width="48" />
+    <img src="./Icons/Java.webp" width="48" />
     <img src="./Icons/c++.png" width="40" />
     <img src="./Icons/c.png" width="49" />
     <img src="./Icons/js.png" width="48" />
