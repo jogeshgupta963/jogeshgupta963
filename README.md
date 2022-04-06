@@ -28,7 +28,7 @@
 <h3>Here is what I Use 👀</h3>
 <p float="left">
     <img src="./Icons/python.png" width="48" />
-    <img src="./Icons/java.png" width="48" />
+    <img src="./java.png" width="48" />
     <img src="./Icons/c.png" width="48" />
     <img src="./Icons/javascript.png" width="48" />
     <img src="./Icons/html.png" width="48" />
