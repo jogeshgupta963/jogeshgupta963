@@ -16,7 +16,7 @@
 <br>
 2)I love to code and play football
 <br>
-3)Currently learning react
+3)Currently learning Blockchain
 <br>
 4)Web Developer(MERN Stack)
 <br>
