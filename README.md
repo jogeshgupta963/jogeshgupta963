@@ -57,7 +57,7 @@ style=" fill:#000000;"><path fill="#0277BD" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Tomato is a fruit🤯🤯
 
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963)](https://github.com/jogeshgupta963/github-readme-stats) -->
 
 <!-- [GitHub stats](https://github-readme-stats.vercel.app/api?username=jogeshgupta963&show_icons=true)  -->
 
