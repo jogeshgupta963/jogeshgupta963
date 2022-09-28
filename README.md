@@ -1,68 +1,31 @@
-<!--
-**jogeshgupta963/jogeshgupta963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Jogesh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jogeshgupta963&label=Profile%20views&color=0e75b6&style=flat" alt="jogeshgupta963" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jogeshgupta963" alt="jogeshgupta963" /></a> </p>
 
-!! Incase u r not accustomed to markdown use this to create yourself a page just like mine => https://arturssmirnovs.github.io/github-profile-readme-generator/
--->
+- 🌱 I’m currently learning **Jenkins**
 
-# Hi there 👋,
+- 👯 I’m looking to collaborate on **Backend Projects**
 
-## I am Jogesh
+- 🤝 I’m looking for help with **Devops**
 
-![Profile views](https://gpvc.arturio.dev/jogeshgupta963)  
-<br>
-1)I am a CS student at Thapar University
-<br>
-2)I love to code and play football
-<br>
-3)Currently learning Blockchain
-<br>
-4)Web Developer(MERN Stack)
-<br>
-5)Open to working with anyone
-<br>
-6)Portfolio -> https://portfolio-jogesh.netlify.app/
-<br>
+- 👨‍💻 All of my projects are available at [https://portfolio-jogesh.netlify.app/](https://portfolio-jogesh.netlify.app/)
 
-<!-- Langusages I use: HTML/CSS/JS/Node/MongoDb/C++/Java -->
-<h3>Here is what I Use 👀</h3>
-<p float="left">
-    <img src="./Icons/Python.webp" width="48" />
-    <img src="./Icons/Java.webp" width="48" />
-    <img src="./Icons/c++.png" width="40" />
-    <img src="./Icons/c.png" width="49" />
-    <img src="./Icons/js.png" width="48" />
-    <!-- <img src="./Icons/html-1.svg" width="48" /> -->
-    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="48" height="48"
-viewBox="0 0 48 48"
-style=" fill:#000000;"><path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"></path><path fill="#FF6D00" d="M24 8L24 39.9 35.2 36.7 37.7 8z"></path><path fill="#FFF" d="M24,25v-4h8.6l-0.7,11.5L24,35.1v-4.2l4.1-1.4l0.3-4.5H24z M32.9,17l0.3-4H24v4H32.9z"></path><path fill="#EEE" d="M24,30.9v4.2l-7.9-2.6L15.7,27h4l0.2,2.5L24,30.9z M19.1,17H24v-4h-9.1l0.7,12H24v-4h-4.6L19.1,17z"></path></svg>
-    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="48" height="48"
-viewBox="0 0 48 48"
-style=" fill:#000000;"><path fill="#0277BD" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"></path><path fill="#039BE5" d="M24 8L24 39.9 35.2 36.7 37.7 8z"></path><path fill="#FFF" d="M33.1 13L24 13 24 17 28.9 17 28.6 21 24 21 24 25 28.4 25 28.1 29.5 24 30.9 24 35.1 31.9 32.5 32.6 21 32.6 21z"></path><path fill="#EEE" d="M24,13v4h-8.9l-0.3-4H24z M19.4,21l0.2,4H24v-4H19.4z M19.8,27h-4l0.3,5.5l7.9,2.6v-4.2l-4.1-1.4L19.8,27z"></path></svg> 
-    <img src="./Icons/react.png" width="48" />
-    <img src="./Icons/node.png" width="48" />
-    <img src="./Icons/mongosb.png" width="48" />
-    <img src="./Icons/git.png" width="48" />
-    <img src="./Icons/postgres.jpg" width="48" />
-    
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **jogeshgupta963@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/185UMLkFdlA0XhIwfcqRsaHORXWBQSnaf](https://drive.google.com/drive/u/0/folders/185UMLkFdlA0XhIwfcqRsaHORXWBQSnaf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jogesh-gupta-366876229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jogesh-gupta-366876229/" height="30" width="40" /></a>
 </p>
 
-- 👯 I’m looking to collaborate on :Backend projects in node
-- 🤔 I’m looking for help in academics
-- 💬 Ask me about anything,happy to help!
-- 📫 How to reach me: jogeshgupta963@gmail.com📧
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Tomato is a fruit🤯🤯
-
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963)](https://github.com/jogeshgupta963/github-readme-stats) -->
-
-<!-- [GitHub stats](https://github-readme-stats.vercel.app/api?username=jogeshgupta963&show_icons=true)  -->
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=jogeshgupta963)](https://github.com/ryo-ma/github-profile-trophy) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <h3>Lets Get to some Stats😁</h3>
 <br><br>
@@ -71,4 +34,3 @@ style=" fill:#000000;"><path fill="#0277BD" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z
 <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshgupta963&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
 
 <p > Top Languages</p><img width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963&layout=compact&theme=omni&hide_border=true&hide_title=true" />
-<!-- <img alt="Akshat's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=jogeshgupta963&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true"> -->
