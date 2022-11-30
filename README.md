@@ -29,7 +29,7 @@
 
 <h3>Lets Get to some Stats😁</h3>
 <br><br>
-<p align="left"><a href="https://github.com/jogeshgupta963"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=jogeshgupta963&show_icons=true&theme=radical" alt="jogeshgupta963"></a></p>
+<p align="left"><a href="https://github.com/jogeshgupta963"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=[jogeshgupta963]&show_icons=true&theme=radical" alt="jogeshgupta963"></a></p>
 
 <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshgupta963&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
 
