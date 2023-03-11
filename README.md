@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jogeshgupta963" alt="jogeshgupta963" /></a> </p>
 
-- 🌱 I’m currently learning **CI/CD**
+- 🌱 I’m currently learning **Terraform**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **Backend/Devops Projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-jogesh.netlify.app/](https://portfolio-jogesh.netlify.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development or Devops**
 
 - 📫 How to reach me **jogeshgupta963@gmail.com**
 
