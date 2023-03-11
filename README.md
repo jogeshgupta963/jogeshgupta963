@@ -31,7 +31,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshgupta963&" alt="jogeshgupta963" /></p>
 ### Hacktoberfest Badges
 
 [![@jogeshgupta963's Holopin board](https://holopin.me/jogeshgupta963)](https://holopin.io/@jogeshgupta963)
