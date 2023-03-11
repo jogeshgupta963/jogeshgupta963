@@ -31,3 +31,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshgupta963&" alt="jogeshgupta963" /></p>
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/F4IwMmVWQCauLfX6d0z7eg?identity__email=jogeshgupta963%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/F4IwMmVWQCauLfX6d0z7eg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p></blockquote>
+### Hacktoberfest Badges
+
+[![@jogeshgupta963's Holopin board](https://holopin.me/jogeshgupta963)](https://holopin.io/@jogeshgupta963)
+
+# 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jogeshgupta963&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jogeshgupta963&theme=synthwave&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
