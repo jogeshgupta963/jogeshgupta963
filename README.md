@@ -37,4 +37,6 @@
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/F4IwMmVWQCauLfX6d0z7eg?identity__email=jogeshgupta963%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/F4IwMmVWQCauLfX6d0z7eg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p></blockquote>
 
-[![Badge](https://github.com/jogeshgupta963/jogeshgupta963/blob/main/Icons/aws.png)](https://www.credly.com/badges/5c94934d-891e-40a4-95a0-d1b1473bfd7e)
+<!-- [![Badge](https://github.com/jogeshgupta963/jogeshgupta963/blob/main/Icons/aws.png)](https://www.credly.com/badges/5c94934d-891e-40a4-95a0-d1b1473bfd7e) -->
+
+<img src="https://github.com/jogeshgupta963/jogeshgupta963/blob/main/Icons/aws.png" width="120px" height="120px" />
