@@ -35,4 +35,4 @@
 [![@jogeshgupta963's Holopin board](https://holopin.me/jogeshgupta963)](https://holopin.io/@jogeshgupta963)
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/F4IwMmVWQCauLfX6d0z7eg?identity__email=jogeshgupta963%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/F4IwMmVWQCauLfX6d0z7eg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p></blockquote>
-[![Badge](https://www.credly.com/badges/5c94934d-891e-40a4-95a0-d1b1473bfd7e/public_url)](https://www.credly.com)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5c94934d-891e-40a4-95a0-d1b1473bfd7e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
